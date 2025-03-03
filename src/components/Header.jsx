@@ -6,3 +6,5 @@ export default function Header(){
         <h1>Investement Calculator</h1>
     </header>
 }
+
+
