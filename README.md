@@ -1,1 +1,0 @@
-# investement-calc
